@@ -1,6 +1,7 @@
-#Love Once Extraction Tool
+# Love Once Extraction Tool
 
 Just put it together with data.bin and list.bin, run it.
+
 Compatible with PS3 Game _Love Once Mermaids Tears_(BLJM60322).
 
 "gr" folder for CGs&BGs, "gr2" folder for characters, "sound" folder for BGMs&SE, "voice" folder for voice.
